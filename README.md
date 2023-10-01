@@ -12,5 +12,6 @@ Key words:Optimization, Network Simulation, Genetic Algorithm, Prims Algorithm, 
 
 - Genetic Algorithm (Meta Heuristic)
 
+
 ![그림1](https://github.com/kimtoto23/Network_Simulation_CMCP/assets/76726655/5a9c5844-90fa-4ff4-b4f2-b4b46e3a81d7)
 
